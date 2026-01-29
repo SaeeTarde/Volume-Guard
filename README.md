@@ -33,3 +33,10 @@ pyinstaller --onefile --windowed --icon=icon.ico --name VolumeGuard main.py
 Protect ears from sudden loud sounds when plugging headphones 🎧
 <img width="246" height="320" alt="image" src="https://github.com/user-attachments/assets/8e2a0b59-e301-44c8-9348-810a3effa94c" />
 
+## 📥 Download (Windows)
+
+You can download the latest Windows app here:
+
+👉 **[Download Volume Guard (.exe)](https://github.com/SaeeTarde/Volume_Guard/releases/latest)**
+
+No installation required. Just double-click and run 🎧🐰

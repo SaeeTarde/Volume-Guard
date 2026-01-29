@@ -35,8 +35,8 @@ Protect ears from sudden loud sounds when plugging headphones 🎧
 
 ## 📥 Download (Windows)
 
-You can download the latest Windows app here:
+Download the latest version of Volume Guard:
 
-👉 **[Download Volume Guard (.exe)](https://github.com/SaeeTarde/Volume_Guard/releases/latest)**
+👉 **[Download Volume Guard (.exe)](https://github.com/SaeeTarde/Volume-Guard/releases/latest)**
 
-No installation required. Just double-click and run 🎧🐰
+Just download, double-click, and run 🎧🐰
